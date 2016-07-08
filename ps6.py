@@ -1,7 +1,7 @@
 # Problem Set 6: Simulating robots
-# Name:
-# Collaborators:
-# Time:
+# Name: John Moore
+# Collaborators: None
+# Time: start 2016 July 8
 
 import math
 import random
@@ -230,10 +230,10 @@ def runSimulation(num_robots, speed, width, height, min_coverage, num_trials,
 
 # === Problem 4
 #
-# 1) How long does it take to clean 80% of a 20×20 room with each of 1-10 robots?
+# 1) How long does it take to clean 80% of a 20Ã—20 room with each of 1-10 robots?
 #
 # 2) How long does it take two robots to clean 80% of rooms with dimensions 
-#	 20×20, 25×16, 40×10, 50×8, 80×5, and 100×4?
+#	 20Ã—20, 25Ã—16, 40Ã—10, 50Ã—8, 80Ã—5, and 100Ã—4?
 
 def showPlot1():
     """
